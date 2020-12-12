@@ -11,7 +11,7 @@
   --body-font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   --radius: 6px;
   --logo-image: url("http://www.rotarymonzavillareale.it/templates/rotary-2014/images/logo.png");
-  --form-width: 650px;
+  --form-width: 750px;
 }
 
 /* Base */
@@ -36,6 +36,10 @@ h6 {
 }
 h1 {
   font-size: 27px;
+  color: var(--headline-color);
+}
+h2 {
+  font-size: 22px;
   color: var(--headline-color);
 }
 h4 {
